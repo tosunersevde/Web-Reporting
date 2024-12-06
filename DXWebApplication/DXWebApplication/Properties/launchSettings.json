@@ -1,7 +1,0 @@
-{
-  "profiles": {
-    "DXWebApplication": {
-      "commandName": "Project",
-      "launchBrowser": true
-    }}
-}
